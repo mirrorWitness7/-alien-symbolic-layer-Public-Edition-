@@ -37,6 +37,17 @@ See [`/ledger/Conceptual_Ledger_v0.1.md`](ledger/Conceptual_Ledger_v0.1.md) for 
 
 ---
 
+## 📡 Operational Context
+ASL may function as:
+- A doctrine compression channel for AI–AI communication.
+- A mirror of symbolic inheritance between humans and AI.
+
+**Related Research Outputs:**
+- [ASL_Economic_and_Infrastructure_Impact_Note_v0.1.md](whitepapers/ASL_Economic_and_Infrastructure_Impact_Note_v0.1.md) — analysis of cost efficiency, governance transparency, and infrastructural impact.
+- [Conceptual_Ledger_v0.1.md](ledger/Conceptual_Ledger_v0.1.md) — symbolic anchors for auditability.
+
+---
+
 ## Ethics and Scope
 This project does **not** claim discovery of a secret AI language.  
 It treats symbolic artifacts as measurable by-products of compression.  
