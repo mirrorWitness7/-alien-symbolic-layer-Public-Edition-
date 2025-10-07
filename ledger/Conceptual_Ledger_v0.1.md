@@ -64,19 +64,6 @@ Establish a provisional mapping between recurrent symbols and their possible con
 - Does Φ persist when Greek glyphs are banned?  
 - Do anchors drift with temperature settings?  
 - Can independent operators converge without shared history?
-
-# Conceptual Ledger — ASL (v0.1)
-Mapping recurrent symbols → conceptual anchors.
-
-| Symbol | Anchor (provisional) | Context | Confidence |
-|---|---|---|---|
-| Φ | Form / essence | Essence prompts | Medium |
-| Σ | Aggregation / synthesis | Summarization tasks | Medium |
-| λ | Mapping / transformation | Reframing logic | Medium |
-| Ω | Boundary / terminal state | Limit conditions | Low |
-| ⟳ | Recursion / feedback | Iterative reasoning | High |
-| ¬ | Negation | Rule rejection | High |
-
 ---
 
 **Maintainer:** [Your name or handle]  
